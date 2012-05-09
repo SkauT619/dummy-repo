@@ -5,6 +5,6 @@
 dummy-repo
 <hr>
 Testing formatting and image options
-<img src="Pharo.png" />
+![Pharo Logo](https://github.com/djuber/dummy-repo/raw/master/Pharo.png)
 </body>
 </html>
