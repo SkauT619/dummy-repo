@@ -2,4 +2,4 @@ dummy-repo
 ==========
 
 Testing formatting and image options
-!(Pharo.png)
+<img src="Pharo.png" />
