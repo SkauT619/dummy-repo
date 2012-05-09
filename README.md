@@ -5,6 +5,6 @@
 dummy-repo
 <hr>
 Testing formatting and image options
-![Pharo Logo](../raw/master/Pharo.png)
+![Pharo Logo](../../raw/master/Pharo.png)
 </body>
 </html>
